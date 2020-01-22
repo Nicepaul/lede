@@ -64,7 +64,7 @@ GPLv3 is compatible with more licenses than GPLv2: it allows you to make combina
 #   编译KoolproxyR 和Serverchan
 把第三方ipk源码的luci包放进source/feeds/luci/applications目录内，
 
-git clone https://github.com/Nicepaul/luci-app-koolproxy
+git clone https://github.com/Nicepaul/koolproxyR
 和
 git clone https://github.com/project-openwrt/luci-app-serverchan
 or
