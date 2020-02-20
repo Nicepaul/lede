@@ -66,8 +66,6 @@ GPLv3 is compatible with more licenses than GPLv2: it allows you to make combina
 
 git clone https://github.com/Nicepaul/luci-app-koolproxyR
 和
-git clone https://github.com/project-openwrt/luci-app-serverchan
-or
 git clone https://github.com/Nicepaul/luci-app-serverchan
 然后运行下面的命令:
 ./scripts/feeds update luci
